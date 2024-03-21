@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **mahirazabin@gmail.com**
 
-- ⚡ Fun fact **I've zipped through 9 countries and can juggle 5 different languages!**
+- ⚡ Fun fact: **I've zipped through 9 countries and can juggle 5 different languages!**
 
 <div> 
   <a href="mailto:mahirazabin@gmail.com">
