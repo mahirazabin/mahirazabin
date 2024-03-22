@@ -40,14 +40,16 @@
   <br/> <br/>
 </div>
 
-<h3 align="center">⚡ My Stats ⚡</h3>
+<h3 align="center">Github Stats 🕹</h3>
 <br>
-<div align=center>
-     <img width = 390 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/?username=mahirazabin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="GitHub Streak Stats for mahirazabin" />
-   <td style="padding: 0 10px;">&nbsp;</td>
-  <img width = 390 height = 200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mahirazabin&theme=radical" alt="GitHub Streak" />
-  <br/>
-   <img width = 390 height = 200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahirazabin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="GitHub Streak Stats for mahirazabin" />
-</div>
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahirazabin&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirazabin&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+
+</td></tr></table> 
 
 
