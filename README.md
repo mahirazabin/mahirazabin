@@ -7,7 +7,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirazabin&label=Profile%20views&color=0e75b6&style=flat" alt="mahirazabin" /> </p>
 
-- 🔭 I’m currently working on **Cinestream**
+- 🔭 I’m currently working on **Cinestream** 🎦
 
 - 🌱 I’m currently learning **networking and multithreaded projects in C++!**
 
